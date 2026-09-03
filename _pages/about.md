@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate in the [HKUST NLP Group](https://nlp.cse.ust.hk/), advised by [Professor Junxian He](https://junxianhe.github.io/). I graduated from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) (SJTU) in June 2024.
+I am a first-year Ph.D. candidate in the HKUST NLP Group, advised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024.
 
 My research focuses on **natural language processing** and **machine learning**.
 
@@ -35,14 +35,14 @@ Publications
 * **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**, 2025.
   * Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
   * Arxiv
-  * [Code]
+  * [Code](https://github.com/MiniMax-AI/SynLogic)
 * **On the Perception Bottleneck of VLMs for Chart Understanding**, 2025.
   * Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
   * Arxiv
-  * [Code](https://github.com/Vision4Chart)
+  * [Code](https://github.com/hkust-nlp/Vision4Chart)
 * **On the Universal Truthfulness Hyperplane Inside LLMs**, EMNLP 2024.
   * Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He
-  * [Code](https://github.com/Universal_Truthfulness_Hyperplane)
+  * [Code](https://github.com/hkust-nlp/Universal_Truthfulness_Hyperplane)
 * **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**, ICML 2024.
   * Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
 * **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**, NeurIPS 2023.
