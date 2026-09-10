@@ -1,13 +1,19 @@
 ---
-title: "Paper Title Number 4"
+title: "On the Universal Truthfulness Hyperplane Inside LLMs"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This paper is about the universal truthfulness hyperplane inside large language models.'
 date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+venue: 'EMNLP 2024'
+paperurl: 'https://arxiv.org/abs/2405.18838'
+citation: 'Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. (2024). "On the Universal Truthfulness Hyperplane Inside LLMs." EMNLP 2024.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Using [MathJax](https://www.mathjax.org/) in the description is supported.
+
+**Abstract:** Large Language Models (LLMs) have demonstrated remarkable capabilities in various natural language processing tasks. However, ensuring their truthfulness remains a critical challenge. In this paper, we investigate the universal truthfulness hyperplane inside LLMs, which provides a geometric perspective on model truthfulness. Our findings reveal that LLMs lie on a low-dimensional subspace that captures truthfulness-related information, enabling more effective detection and mitigation of hallucinations. We propose a novel approach to identify this hyperplane and demonstrate its effectiveness across multiple benchmarks.
+
+**Citation:** Liu, J., Chen, S., Cheng, Y., & He, J. (2024). On the Universal Truthfulness Hyperplane Inside LLMs. *EMNLP 2024*.
+
+**GitHub:** [Universal_Truthfulness_Hyperplane](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
