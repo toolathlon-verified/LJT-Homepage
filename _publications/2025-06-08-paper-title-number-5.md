@@ -1,13 +1,19 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "On the Perception Bottleneck of VLMs for Chart Understanding"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2025-06-08-paper-title-number-5
+excerpt: 'This paper investigates the perception bottleneck of Vision-Language Models (VLMs) when understanding charts and data visualizations.'
+date: 2025-06-08
+venue: 'ArXiv 2025'
+paperurl: 'https://arxiv.org/abs/2506.08000'
+citation: 'Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. (2025). "On the Perception Bottleneck of VLMs for Chart Understanding." ArXiv 2025.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+Using [MathJax](https://www.mathjax.org/) in the description is supported.
+
+**Abstract:** Vision-Language Models (VLMs) have shown remarkable progress in understanding visual content, but their ability to comprehend charts and data visualizations remains limited. In this paper, we identify a perception bottleneck that hinders VLMs from accurately understanding charts. We propose a systematic analysis of this bottleneck and introduce new benchmarks for chart understanding. Our work provides insights into the limitations of current VLMs and suggests directions for improvement.
+
+**Citation:** Liu, J., Zeng, W., Zhang, X., Wang, Y., Shan, Z., & He, J. (2025). On the Perception Bottleneck of VLMs for Chart Understanding. *ArXiv 2025*.
+
+**GitHub:** [Vision4Chart](https://github.com/Vicent0205/Vision4Chart)
