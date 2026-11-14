@@ -46,7 +46,7 @@ I am a first-year PhD candidate in the **Hong Kong University of Science and Tec
 
 **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (First author)
 Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.
-Published on Arxiv. Code repository: SynLogic.
+Published on Arxiv. Code repository available on GitHub.
 
 **On the Perception Bottleneck of VLMs for Chart Understanding** (First author)
 Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.
